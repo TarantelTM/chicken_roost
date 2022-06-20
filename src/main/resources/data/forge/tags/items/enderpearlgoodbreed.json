@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_endstone",
+    "chicken_roost:e_chicken_ender_pearl",
+    "chicken_roost:e_chicken_chorus_fruit"
+  ]
+}

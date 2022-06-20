@@ -1,0 +1,17 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.NORMAL_STONE_STAIRS"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost_getitem_livingrock",
+    "namespace": "forge"
+  }
+}

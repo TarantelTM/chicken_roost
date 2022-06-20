@@ -1,0 +1,37 @@
+{
+  "group": "roost",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    },
+    {
+      "item": "chicken_roost:emerald_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 1
+  }
+}

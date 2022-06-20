@@ -1,0 +1,17 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.APPLE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roostgetapple",
+    "namespace": "forge"
+  }
+}

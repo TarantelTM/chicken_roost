@@ -1,0 +1,17 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.SAND#0"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost_getitem_sand",
+    "namespace": "forge"
+  }
+}

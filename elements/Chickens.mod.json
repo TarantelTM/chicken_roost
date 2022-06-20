@@ -1,0 +1,434 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenCobble"
+      },
+      {
+        "value": "CUSTOM:EChickenFlint"
+      },
+      {
+        "value": "CUSTOM:EChickenSand"
+      },
+      {
+        "value": "CUSTOM:EChickenGravel"
+      },
+      {
+        "value": "CUSTOM:EChickenGranit"
+      },
+      {
+        "value": "CUSTOM:EChickenAndesite"
+      },
+      {
+        "value": "CUSTOM:EChickenCopper"
+      },
+      {
+        "value": "CUSTOM:EChickenIron"
+      },
+      {
+        "value": "CUSTOM:EChickenRedstone"
+      },
+      {
+        "value": "CUSTOM:EChickenLapis"
+      },
+      {
+        "value": "CUSTOM:EChickenDiamond"
+      },
+      {
+        "value": "CUSTOM:EChickenObsidian"
+      },
+      {
+        "value": "CUSTOM:EChickenGold"
+      },
+      {
+        "value": "CUSTOM:EChickenSlime"
+      },
+      {
+        "value": "CUSTOM:EChickenBirchwood"
+      },
+      {
+        "value": "CUSTOM:EChickenOakwood"
+      },
+      {
+        "value": "CUSTOM:EOsmiumChicken"
+      },
+      {
+        "value": "CUSTOM:EChickenCertusq"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismTin"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismRefinedObsi"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismBronze"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismRefinedGlowstone"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismSteel"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismUranium"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismLead"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismBioFuel"
+      },
+      {
+        "value": "CUSTOM:EChickenAESilicon"
+      },
+      {
+        "value": "CUSTOM:EChickenAEFluixCrystal"
+      },
+      {
+        "value": "CUSTOM:EChickenAEChargedCertus"
+      },
+      {
+        "value": "CUSTOM:EChickenBotaniaManasteel"
+      },
+      {
+        "value": "CUSTOM:EChickenBotaniaTerrasteel"
+      },
+      {
+        "value": "CUSTOM:EChickenBotaniaElementium"
+      },
+      {
+        "value": "CUSTOM:EChickenBotaniaLivingrock"
+      },
+      {
+        "value": "CUSTOM:EChickenBotaniaLivingwood"
+      },
+      {
+        "value": "CUSTOM:EChickenCrimstonStem"
+      },
+      {
+        "value": "CUSTOM:EChickenWarpedStem"
+      },
+      {
+        "value": "CUSTOM:EChickenSprucewood"
+      },
+      {
+        "value": "CUSTOM:EChickenGlass"
+      },
+      {
+        "value": "CUSTOM:EChickenWool"
+      },
+      {
+        "value": "CUSTOM:EChickenSoulSand"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherrack"
+      },
+      {
+        "value": "CUSTOM:EChickenSoulSoil"
+      },
+      {
+        "value": "CUSTOM:EChickenBasalt"
+      },
+      {
+        "value": "CUSTOM:EChickenInk"
+      },
+      {
+        "value": "CUSTOM:EChickenPaper"
+      },
+      {
+        "value": "CUSTOM:EChickenClay"
+      },
+      {
+        "value": "CUSTOM:EChickenQuartz"
+      },
+      {
+        "value": "CUSTOM:EChickenAmethystShard"
+      },
+      {
+        "value": "CUSTOM:EChickenEmerald"
+      },
+      {
+        "value": "CUSTOM:EChickenTNT"
+      },
+      {
+        "value": "CUSTOM:EChickenDiorite"
+      },
+      {
+        "value": "CUSTOM:EChickenStone"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherStar"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherWart"
+      },
+      {
+        "value": "CUSTOM:EChickenEnderEye"
+      },
+      {
+        "value": "CUSTOM:EChickenGlowstone"
+      },
+      {
+        "value": "CUSTOM:EChickenBlazeRod"
+      },
+      {
+        "value": "CUSTOM:EChickenSugar"
+      },
+      {
+        "value": "CUSTOM:EChickenBoneMeal"
+      },
+      {
+        "value": "CUSTOM:EChickenEnderPearl"
+      },
+      {
+        "value": "CUSTOM:EChickenBone"
+      },
+      {
+        "value": "CUSTOM:EChickenDarkOak"
+      },
+      {
+        "value": "CUSTOM:EChickenAcaciawood"
+      },
+      {
+        "value": "CUSTOM:EChickenJunglewood"
+      },
+      {
+        "value": "CUSTOM:EChickenNautilusShell"
+      },
+      {
+        "value": "CUSTOM:EChickenHoneycomb"
+      },
+      {
+        "value": "CUSTOM:EChickenRabbitHide"
+      },
+      {
+        "value": "CUSTOM:EChickenPrismarineShard"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherBrick"
+      },
+      {
+        "value": "CUSTOM:EChickenChorusFruit"
+      },
+      {
+        "value": "CUSTOM:EChickenCoal"
+      },
+      {
+        "value": "CUSTOM:EChickenCharCoal"
+      },
+      {
+        "value": "CUSTOM:Chickenchicken"
+      },
+      {
+        "value": "CUSTOM:EChickenLeather"
+      },
+      {
+        "value": "CUSTOM:EChickenString"
+      },
+      {
+        "value": "CUSTOM:Echickenfeather"
+      },
+      {
+        "value": "CUSTOM:Echickensnow"
+      },
+      {
+        "value": "CUSTOM:Echickenapple"
+      },
+      {
+        "value": "CUSTOM:Echickensponge"
+      },
+      {
+        "value": "CUSTOM:EChickenMelon"
+      },
+      {
+        "value": "CUSTOM:EChickenMagmacream"
+      },
+      {
+        "value": "CUSTOM:EChickenblazepowder"
+      },
+      {
+        "value": "CUSTOM:EChickenglowberries"
+      },
+      {
+        "value": "CUSTOM:EChickenSweetberries"
+      },
+      {
+        "value": "CUSTOM:EChickenTintedglass"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherite"
+      },
+      {
+        "value": "CUSTOM:EChickenbeetroot"
+      },
+      {
+        "value": "CUSTOM:EChickenSpidereye"
+      },
+      {
+        "value": "CUSTOM:EChickencarrot"
+      },
+      {
+        "value": "CUSTOM:EChickenRotten"
+      },
+      {
+        "value": "CUSTOM:EChickenGhasttear"
+      },
+      {
+        "value": "CUSTOM:EChickenZinc"
+      },
+      {
+        "value": "CUSTOM:EChickenAluminium"
+      },
+      {
+        "value": "CUSTOM:EChickenSilver"
+      },
+      {
+        "value": "CUSTOM:EChickenNickel"
+      },
+      {
+        "value": "CUSTOM:EChickenAdamantium"
+      },
+      {
+        "value": "CUSTOM:EChickenBrass"
+      },
+      {
+        "value": "CUSTOM:EChickenChrome"
+      },
+      {
+        "value": "CUSTOM:EChickenElectrum"
+      },
+      {
+        "value": "CUSTOM:EChickenHotTungstenSteel"
+      },
+      {
+        "value": "CUSTOM:EChickenInvar"
+      },
+      {
+        "value": "CUSTOM:EChickenIridium"
+      },
+      {
+        "value": "CUSTOM:EChickenPlatinum"
+      },
+      {
+        "value": "CUSTOM:EChickenRefinedIron"
+      },
+      {
+        "value": "CUSTOM:EChickenTitanium"
+      },
+      {
+        "value": "CUSTOM:EChickenTungsten"
+      },
+      {
+        "value": "CUSTOM:EChickenTungstensteel"
+      },
+      {
+        "value": "CUSTOM:EChickenYellorium"
+      },
+      {
+        "value": "CUSTOM:EChickenBlutonium"
+      },
+      {
+        "value": "CUSTOM:EChickenAllthemodium"
+      },
+      {
+        "value": "CUSTOM:EChickenVibranium"
+      },
+      {
+        "value": "CUSTOM:EChickenUnobtainium"
+      },
+      {
+        "value": "CUSTOM:EChickenEndstone"
+      },
+      {
+        "value": "CUSTOM:Echickenamethystbronze"
+      },
+      {
+        "value": "CUSTOM:Echickenslimesteel"
+      },
+      {
+        "value": "CUSTOM:Echickenrosegold"
+      },
+      {
+        "value": "CUSTOM:Echickencobald"
+      },
+      {
+        "value": "CUSTOM:Echickenhepatizon"
+      },
+      {
+        "value": "CUSTOM:Echickenknightslime"
+      },
+      {
+        "value": "CUSTOM:Echickenmanyullyn"
+      },
+      {
+        "value": "CUSTOM:Echickenpigiron"
+      },
+      {
+        "value": "CUSTOM:Echickenqueenslime"
+      },
+      {
+        "value": "CUSTOM:Echickenquartzenrichediron"
+      },
+      {
+        "value": "CUSTOM:Etestchicken"
+      },
+      {
+        "value": "CUSTOM:Echickentar"
+      },
+      {
+        "value": "CUSTOM:Echickensulfur"
+      },
+      {
+        "value": "CUSTOM:Echickensignalum"
+      },
+      {
+        "value": "CUSTOM:Echickenapatite"
+      },
+      {
+        "value": "CUSTOM:Echickenbasalz"
+      },
+      {
+        "value": "CUSTOM:Echickenbitumen"
+      },
+      {
+        "value": "CUSTOM:Echickenblitz"
+      },
+      {
+        "value": "CUSTOM:Echickenblizz"
+      },
+      {
+        "value": "CUSTOM:Echickencinnabar"
+      },
+      {
+        "value": "CUSTOM:Echickencoke"
+      },
+      {
+        "value": "CUSTOM:Echickenruby"
+      },
+      {
+        "value": "CUSTOM:Echickensapphire"
+      },
+      {
+        "value": "CUSTOM:Echickenniter"
+      },
+      {
+        "value": "CUSTOM:Echickenlumium"
+      },
+      {
+        "value": "CUSTOM:Echickenconstantan"
+      },
+      {
+        "value": "CUSTOM:Echickenenderium"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost/chickens",
+    "namespace": "forge"
+  }
+}

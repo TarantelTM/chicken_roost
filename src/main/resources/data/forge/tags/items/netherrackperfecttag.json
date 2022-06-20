@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_nether_wart",
+    "chicken_roost:e_chicken_obsidian",
+    "chicken_roost:e_chicken_magmacream"
+  ]
+}

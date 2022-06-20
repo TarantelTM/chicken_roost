@@ -1,0 +1,23 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenElectrum"
+      },
+      {
+        "value": "CUSTOM:EChickenInvar"
+      },
+      {
+        "value": "CUSTOM:EChickenNickel"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "osmiumgoodtag",
+    "namespace": "forge"
+  }
+}

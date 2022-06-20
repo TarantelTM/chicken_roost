@@ -1,0 +1,71 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenCoal"
+      },
+      {
+        "value": "CUSTOM:EChickenCharCoal"
+      },
+      {
+        "value": "CUSTOM:EChickenFlint"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherrack"
+      },
+      {
+        "value": "CUSTOM:EChickenBoneMeal"
+      },
+      {
+        "value": "CUSTOM:EChickenBone"
+      },
+      {
+        "value": "CUSTOM:EChickenMelon"
+      },
+      {
+        "value": "CUSTOM:EChickencarrot"
+      },
+      {
+        "value": "CUSTOM:Echickensnow"
+      },
+      {
+        "value": "CUSTOM:EChickenCrimstonStem"
+      },
+      {
+        "value": "CUSTOM:EChickenWarpedStem"
+      },
+      {
+        "value": "CUSTOM:EChickenbeetroot"
+      },
+      {
+        "value": "CUSTOM:Echickenapple"
+      },
+      {
+        "value": "CUSTOM:EChickenPaper"
+      },
+      {
+        "value": "CUSTOM:EChickenglowberries"
+      },
+      {
+        "value": "CUSTOM:EChickenAcaciawood"
+      },
+      {
+        "value": "CUSTOM:EChickenInk"
+      },
+      {
+        "value": "CUSTOM:EChickenSweetberries"
+      },
+      {
+        "value": "CUSTOM:EChickenSugar"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost/tier2",
+    "namespace": "forge"
+  }
+}

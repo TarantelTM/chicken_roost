@@ -1,0 +1,17 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.GHAST_TEAR"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roostgetghasttear",
+    "namespace": "forge"
+  }
+}

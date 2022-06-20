@@ -1,0 +1,17 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.NETHER_WART"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roostgetitem_netherwart",
+    "namespace": "forge"
+  }
+}

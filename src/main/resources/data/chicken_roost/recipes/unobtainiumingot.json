@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    },
+    {
+      "tag": "forge:nuggets/unobtainium"
+    }
+  ],
+  "result": {
+    "item": "allthemodium:unobtainium_ingot",
+    "count": 1
+  }
+}

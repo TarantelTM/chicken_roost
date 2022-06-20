@@ -1,0 +1,35 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenMekanismTin"
+      },
+      {
+        "value": "CUSTOM:EChickenZinc"
+      },
+      {
+        "value": "CUSTOM:EChickenAluminium"
+      },
+      {
+        "value": "CUSTOM:EChickenSilver"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismLead"
+      },
+      {
+        "value": "CUSTOM:EChickenRedstone"
+      },
+      {
+        "value": "CUSTOM:EChickenRefinedIron"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "irongoodtag",
+    "namespace": "forge"
+  }
+}

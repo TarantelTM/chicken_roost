@@ -1,0 +1,37 @@
+{
+  "group": "roost",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    },
+    {
+      "item": "chicken_roost:diamondnugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

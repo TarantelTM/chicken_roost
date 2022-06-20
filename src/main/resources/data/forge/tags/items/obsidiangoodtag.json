@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chickenblazepowder",
+    "chicken_roost:e_chicken_diamond",
+    "chicken_roost:e_chicken_magmacream",
+    "chicken_roost:e_chicken_blaze_rod"
+  ]
+}

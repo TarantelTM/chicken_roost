@@ -1,0 +1,23 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenAdamantium"
+      },
+      {
+        "value": "CUSTOM:EChickenIridium"
+      },
+      {
+        "value": "CUSTOM:EChickenPlatinum"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "diamondgoodtag",
+    "namespace": "forge"
+  }
+}

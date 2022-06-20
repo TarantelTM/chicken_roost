@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_nickel",
+    "chicken_roost:e_chicken_allthemodium",
+    "chicken_roost:e_chicken_netherite",
+    "chicken_roost:e_chicken_diamond",
+    "chicken_roost:e_chicken_tungstensteel",
+    "chicken_roost:e_chicken_botania_terrasteel",
+    "chicken_roost:e_chicken_botania_elementium",
+    "chicken_roost:e_chicken_electrum",
+    "chicken_roost:e_chicken_invar",
+    "chicken_roost:e_chicken_blutonium",
+    "chicken_roost:e_chicken_nether_star"
+  ]
+}

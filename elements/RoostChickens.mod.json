@@ -1,0 +1,11 @@
+{
+  "_fv": 30,
+  "_type": "tab",
+  "definition": {
+    "name": "Roost Chickens",
+    "icon": {
+      "value": "CUSTOM:EChickenObsidian"
+    },
+    "showSearch": true
+  }
+}

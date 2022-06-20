@@ -1,0 +1,23 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenObsidian"
+      },
+      {
+        "value": "CUSTOM:EChickenMagmacream"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherWart"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "netherrackperfecttag",
+    "namespace": "forge"
+  }
+}

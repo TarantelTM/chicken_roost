@@ -1,0 +1,47 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenIron"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismTin"
+      },
+      {
+        "value": "CUSTOM:EChickenZinc"
+      },
+      {
+        "value": "CUSTOM:EChickenAluminium"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismLead"
+      },
+      {
+        "value": "CUSTOM:EChickenRedstone"
+      },
+      {
+        "value": "CUSTOM:EChickenObsidian"
+      },
+      {
+        "value": "CUSTOM:EChickenMagmacream"
+      },
+      {
+        "value": "CUSTOM:EChickenNetherWart"
+      },
+      {
+        "value": "CUSTOM:EChickenLapis"
+      },
+      {
+        "value": "CUSTOM:EChickenSlime"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost/tier4",
+    "namespace": "forge"
+  }
+}

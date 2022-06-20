@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_iridium",
+    "chicken_roost:e_chicken_adamantium",
+    "chicken_roost:e_chicken_platinum"
+  ]
+}

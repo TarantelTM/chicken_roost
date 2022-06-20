@@ -1,0 +1,11 @@
+{
+  "_fv": 30,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Fffff",
+    "splashName": "Splash Potion of Fffff",
+    "lingeringName": "Lingering Potion of Fffff",
+    "arrowName": "Arrow of Fffff",
+    "effects": []
+  }
+}

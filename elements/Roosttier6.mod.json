@@ -1,0 +1,44 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EOsmiumChicken"
+      },
+      {
+        "value": "CUSTOM:EChickenCertusq"
+      },
+      {
+        "value": "CUSTOM:EChickenBrass"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismBronze"
+      },
+      {
+        "value": "CUSTOM:EChickenTungsten"
+      },
+      {
+        "value": "CUSTOM:EChickenYellorium"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismSteel"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismUranium"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismBioFuel"
+      },
+      {
+        "value": "CUSTOM:EChickenEmerald"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost/tier6",
+    "namespace": "forge"
+  }
+}

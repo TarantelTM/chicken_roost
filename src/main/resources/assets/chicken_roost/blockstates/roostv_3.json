@@ -1,0 +1,199 @@
+{
+  "variants": {
+    "facing=north,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate"
+    },
+    "facing=east,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_copper_mynewstate"
+    },
+    "facing=east,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_copper_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_copper_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_copper_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_botania_livingwood_mynewstate"
+    },
+    "facing=east,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_botania_livingwood_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_botania_livingwood_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_botania_livingwood_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_botania_livingrock_mynewstate"
+    },
+    "facing=east,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_botania_livingrock_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_botania_livingrock_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_botania_livingrock_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_soul_sand_mynewstate"
+    },
+    "facing=east,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_soul_sand_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_soul_sand_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_soul_sand_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=5": {
+      "model": "chicken_roost:block/e_chicken_soul_soil_mynewstate"
+    },
+    "facing=east,mynewstate=5": {
+      "model": "chicken_roost:block/e_chicken_soul_soil_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=5": {
+      "model": "chicken_roost:block/e_chicken_soul_soil_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=5": {
+      "model": "chicken_roost:block/e_chicken_soul_soil_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=6": {
+      "model": "chicken_roost:block/e_chicken_basalt_mynewstate"
+    },
+    "facing=east,mynewstate=6": {
+      "model": "chicken_roost:block/e_chicken_basalt_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=6": {
+      "model": "chicken_roost:block/e_chicken_basalt_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=6": {
+      "model": "chicken_roost:block/e_chicken_basalt_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=7": {
+      "model": "chicken_roost:block/e_chicken_clay_mynewstate"
+    },
+    "facing=east,mynewstate=7": {
+      "model": "chicken_roost:block/e_chicken_clay_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=7": {
+      "model": "chicken_roost:block/e_chicken_clay_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=7": {
+      "model": "chicken_roost:block/e_chicken_clay_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=8": {
+      "model": "chicken_roost:block/e_chicken_rabbit_hide_mynewstate"
+    },
+    "facing=east,mynewstate=8": {
+      "model": "chicken_roost:block/e_chicken_rabbit_hide_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=8": {
+      "model": "chicken_roost:block/e_chicken_rabbit_hide_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=8": {
+      "model": "chicken_roost:block/e_chicken_rabbit_hide_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=9": {
+      "model": "chicken_roost:block/e_chicken_leather_mynewstate"
+    },
+    "facing=east,mynewstate=9": {
+      "model": "chicken_roost:block/e_chicken_leather_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=9": {
+      "model": "chicken_roost:block/e_chicken_leather_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=9": {
+      "model": "chicken_roost:block/e_chicken_leather_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=10": {
+      "model": "chicken_roost:block/e_chicken_string_mynewstate"
+    },
+    "facing=east,mynewstate=10": {
+      "model": "chicken_roost:block/e_chicken_string_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=10": {
+      "model": "chicken_roost:block/e_chicken_string_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=10": {
+      "model": "chicken_roost:block/e_chicken_string_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=11": {
+      "model": "chicken_roost:block/echickensponge_mynewstate"
+    },
+    "facing=east,mynewstate=11": {
+      "model": "chicken_roost:block/echickensponge_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=11": {
+      "model": "chicken_roost:block/echickensponge_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=11": {
+      "model": "chicken_roost:block/echickensponge_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=12": {
+      "model": "chicken_roost:block/e_chicken_spidereye_mynewstate"
+    },
+    "facing=east,mynewstate=12": {
+      "model": "chicken_roost:block/e_chicken_spidereye_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=12": {
+      "model": "chicken_roost:block/e_chicken_spidereye_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=12": {
+      "model": "chicken_roost:block/e_chicken_spidereye_mynewstate",
+      "y": 270
+    },
+    }
+}

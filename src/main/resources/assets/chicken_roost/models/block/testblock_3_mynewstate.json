@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chicken_roost:blocks/paliscrystalchicken",
+    "up": "chicken_roost:blocks/paliscrystalchicken",
+    "north": "chicken_roost:blocks/paliscrystalchicken",
+    "east": "chicken_roost:blocks/paliscrystalchicken",
+    "south": "chicken_roost:blocks/paliscrystalchicken",
+    "west": "chicken_roost:blocks/paliscrystalchicken",
+    "particle": "chicken_roost:blocks/paliscrystalchicken"
+  }
+}

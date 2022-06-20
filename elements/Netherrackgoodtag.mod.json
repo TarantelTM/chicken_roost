@@ -1,0 +1,20 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenSoulSand"
+      },
+      {
+        "value": "CUSTOM:EChickenSoulSoil"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "netherrackgoodtag",
+    "namespace": "forge"
+  }
+}

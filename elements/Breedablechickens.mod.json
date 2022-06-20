@@ -1,0 +1,188 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:AChickenAdamantium"
+      },
+      {
+        "value": "CUSTOM:AChickenAECertusQuartz"
+      },
+      {
+        "value": "CUSTOM:AChickenAESilicon"
+      },
+      {
+        "value": "CUSTOM:AChickenAluminium"
+      },
+      {
+        "value": "CUSTOM:AChickenAndersite"
+      },
+      {
+        "value": "CUSTOM:AChickenBasalt"
+      },
+      {
+        "value": "CUSTOM:AChickenblazepowder"
+      },
+      {
+        "value": "CUSTOM:AChickenBlazeRod"
+      },
+      {
+        "value": "CUSTOM:AChickenBlutonium"
+      },
+      {
+        "value": "CUSTOM:AChickenBrass"
+      },
+      {
+        "value": "CUSTOM:AChickenChrome"
+      },
+      {
+        "value": "CUSTOM:AChickenClay"
+      },
+      {
+        "value": "CUSTOM:AChickenCoal"
+      },
+      {
+        "value": "CUSTOM:AChickenCobble"
+      },
+      {
+        "value": "CUSTOM:AChickenCopper"
+      },
+      {
+        "value": "CUSTOM:AChickenDiamond"
+      },
+      {
+        "value": "CUSTOM:AChickenDiorite"
+      },
+      {
+        "value": "CUSTOM:AChickenElectrum"
+      },
+      {
+        "value": "CUSTOM:AChickenEmerald"
+      },
+      {
+        "value": "CUSTOM:AChickenFeather"
+      },
+      {
+        "value": "CUSTOM:AChickenFlint"
+      },
+      {
+        "value": "CUSTOM:AChickenGlowstone"
+      },
+      {
+        "value": "CUSTOM:AChickenGold"
+      },
+      {
+        "value": "CUSTOM:AChickenGranit"
+      },
+      {
+        "value": "CUSTOM:AChickenGravel"
+      },
+      {
+        "value": "CUSTOM:AChickenInvar"
+      },
+      {
+        "value": "CUSTOM:AChickenIridium"
+      },
+      {
+        "value": "CUSTOM:AChickenIron"
+      },
+      {
+        "value": "CUSTOM:AChickenLapis"
+      },
+      {
+        "value": "CUSTOM:AChickenmagmacream"
+      },
+      {
+        "value": "CUSTOM:AChickenMekanismBioFuel"
+      },
+      {
+        "value": "CUSTOM:AChickenMekanismBronze"
+      },
+      {
+        "value": "CUSTOM:AChickenMekanismLead"
+      },
+      {
+        "value": "CUSTOM:AChickenMekanismSteel"
+      },
+      {
+        "value": "CUSTOM:AChickenMekanismTin"
+      },
+      {
+        "value": "CUSTOM:AChickenMekanismUranium"
+      },
+      {
+        "value": "CUSTOM:AChickennetherite"
+      },
+      {
+        "value": "CUSTOM:AChickenNetherrack"
+      },
+      {
+        "value": "CUSTOM:AChickenNetherWart"
+      },
+      {
+        "value": "CUSTOM:AChickenNickel"
+      },
+      {
+        "value": "CUSTOM:AChickenObsidian"
+      },
+      {
+        "value": "CUSTOM:AChickenOsmium"
+      },
+      {
+        "value": "CUSTOM:AChickenPlatinum"
+      },
+      {
+        "value": "CUSTOM:AChickenQuartz"
+      },
+      {
+        "value": "CUSTOM:AChickenRedstone"
+      },
+      {
+        "value": "CUSTOM:AChickenRefinediron"
+      },
+      {
+        "value": "CUSTOM:AChickenSand"
+      },
+      {
+        "value": "CUSTOM:AChickenSilver"
+      },
+      {
+        "value": "CUSTOM:AChickenSlime"
+      },
+      {
+        "value": "CUSTOM:AChickenSoulSand"
+      },
+      {
+        "value": "CUSTOM:AChickenSoulSoil"
+      },
+      {
+        "value": "CUSTOM:AChickenStone"
+      },
+      {
+        "value": "CUSTOM:AChickenTitanium"
+      },
+      {
+        "value": "CUSTOM:AChickenTNT"
+      },
+      {
+        "value": "CUSTOM:AChickenTungsten"
+      },
+      {
+        "value": "CUSTOM:AChickenTungstensteel"
+      },
+      {
+        "value": "CUSTOM:AChickenYellorium"
+      },
+      {
+        "value": "CUSTOM:AChickenZinc"
+      }
+    ],
+    "name": "roost/chickensbreed",
+    "namespace": "forge"
+  }
+}

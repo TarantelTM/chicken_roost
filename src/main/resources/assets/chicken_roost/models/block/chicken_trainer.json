@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chicken_roost:blocks/henhouse_top",
+    "up": "chicken_roost:blocks/henhouse_top",
+    "north": "chicken_roost:blocks/henhouse_front",
+    "east": "chicken_roost:blocks/henhouse_side",
+    "south": "chicken_roost:blocks/henhouse_side",
+    "west": "chicken_roost:blocks/henhouse_side",
+    "particle": "chicken_roost:blocks/henhouse_top"
+  }
+}

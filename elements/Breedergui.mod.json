@@ -1,0 +1,154 @@
+{
+  "_fv": 30,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:EChickenQuartz"
+          },
+          "color": {
+            "value": -13421569,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:EChickenNetherBrick"
+          },
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 159,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 222,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 240,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 258,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #5",
+          "x": 276,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Chicken",
+          "color": {
+            "value": -13421569,
+            "falpha": 0.0
+          },
+          "name": "Chicken",
+          "x": 134,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Food",
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "name": "Food",
+          "x": 134,
+          "y": 94
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Output",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Output",
+          "x": 134,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:text:showtimertostring>",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:text:showtimertostring>",
+          "x": 187,
+          "y": 66
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

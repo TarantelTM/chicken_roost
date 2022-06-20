@@ -1,0 +1,46 @@
+{
+  "_fv": 30,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": "CUSTOM:Breeder"
+      },
+      {
+        "value": "CUSTOM:Breeder"
+      },
+      {
+        "value": "CUSTOM:Breeder"
+      },
+      {
+        "value": "Items.GOLDEN_CARROT"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Items.GOLDEN_CARROT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChickenTrainer"
+    },
+    "name": "trainer_recipe",
+    "namespace": "mod"
+  }
+}

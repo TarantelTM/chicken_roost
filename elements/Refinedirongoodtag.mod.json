@@ -1,0 +1,23 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenTungsten"
+      },
+      {
+        "value": "CUSTOM:EChickenYellorium"
+      },
+      {
+        "value": "CUSTOM:EChickenMekanismSteel"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "refinedirongoodtag",
+    "namespace": "forge"
+  }
+}

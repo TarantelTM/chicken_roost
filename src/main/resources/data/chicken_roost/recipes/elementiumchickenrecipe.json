@@ -1,0 +1,37 @@
+{
+  "group": "roost",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "chicken_roost:e_chicken_botania_manasteel"
+    },
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "botania:elementium_block"
+    },
+    {
+      "item": "botania:elementium_block"
+    }
+  ],
+  "result": {
+    "item": "chicken_roost:e_chicken_botania_elementium",
+    "count": 1
+  }
+}

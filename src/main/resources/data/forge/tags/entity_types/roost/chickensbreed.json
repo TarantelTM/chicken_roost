@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:a_chicken_granit",
+    "chicken_roost:a_chicken_osmium",
+    "chicken_roost:a_chicken_mekanism_uranium",
+    "chicken_roost:a_chicken_redstone",
+    "chicken_roost:a_chicken_aluminium",
+    "chicken_roost:a_chicken_basalt",
+    "chicken_roost:a_chicken_copper",
+    "chicken_roost:a_chicken_clay",
+    "chicken_roost:a_chickenblazepowder",
+    "chicken_roost:a_chicken_diorite",
+    "chicken_roost:a_chicken_gravel",
+    "chicken_roost:a_chicken_netherrack",
+    "chicken_roost:a_chicken_gold",
+    "chicken_roost:a_chicken_blaze_rod",
+    "chicken_roost:a_chicken_yellorium",
+    "chicken_roost:a_chicken_slime",
+    "chicken_roost:a_chicken_diamond",
+    "chicken_roost:a_chicken_lapis",
+    "chicken_roost:a_chicken_iron",
+    "chicken_roost:a_chicken_tungsten",
+    "chicken_roost:a_chicken_andersite",
+    "chicken_roost:a_chicken_coal",
+    "chicken_roost:a_chicken_refinediron",
+    "chicken_roost:a_chicken_stone",
+    "chicken_roost:a_chicken_adamantium",
+    "chicken_roost:a_chicken_cobble",
+    "chicken_roost:a_chicken_obsidian",
+    "chicken_roost:a_chickenmagmacream"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_soul_soil",
+    "chicken_roost:e_chicken_string",
+    "chicken_roost:e_chicken_basalt",
+    "chicken_roost:e_chicken_copper",
+    "chicken_roost:e_chicken_rabbit_hide",
+    "chicken_roost:e_chicken_clay",
+    "chicken_roost:e_chicken_spidereye",
+    "chicken_roost:e_chicken_soul_sand",
+    "chicken_roost:e_chicken_leather"
+  ]
+}

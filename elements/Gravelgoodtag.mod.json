@@ -1,0 +1,20 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenFlint"
+      },
+      {
+        "value": "CUSTOM:EChickenClay"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "gravelgoodtag",
+    "namespace": "forge"
+  }
+}

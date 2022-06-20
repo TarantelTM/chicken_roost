@@ -1,0 +1,79 @@
+{
+  "variants": {
+    "facing=north,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate"
+    },
+    "facing=east,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=0": {
+      "model": "chicken_roost:block/empty_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_adamantium_mynewstate"
+    },
+    "facing=east,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_adamantium_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_adamantium_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=1": {
+      "model": "chicken_roost:block/e_chicken_adamantium_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_iridium_mynewstate"
+    },
+    "facing=east,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_iridium_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_iridium_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=2": {
+      "model": "chicken_roost:block/e_chicken_iridium_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_platinum_mynewstate"
+    },
+    "facing=east,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_platinum_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_platinum_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=3": {
+      "model": "chicken_roost:block/e_chicken_platinum_mynewstate",
+      "y": 270
+    },
+    "facing=north,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_vibranium_mynewstate"
+    },
+    "facing=east,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_vibranium_mynewstate",
+      "y": 90
+    },
+    "facing=south,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_vibranium_mynewstate",
+      "y": 180
+    },
+    "facing=west,mynewstate=4": {
+      "model": "chicken_roost:block/e_chicken_vibranium_mynewstate",
+      "y": 270
+    }
+    }
+}

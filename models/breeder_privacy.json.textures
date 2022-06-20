@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "curtain_empty",
+        "top": "slat_side",
+        "floor": "hay_floor"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenBlazeRod"
+      },
+      {
+        "value": "CUSTOM:EChickenblazepowder"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "blazebadtag",
+    "namespace": "forge"
+  }
+}

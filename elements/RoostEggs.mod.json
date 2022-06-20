@@ -1,0 +1,11 @@
+{
+  "_fv": 30,
+  "_type": "tab",
+  "definition": {
+    "name": "Roost Eggs",
+    "icon": {
+      "value": "Items.EGG"
+    },
+    "showSearch": true
+  }
+}

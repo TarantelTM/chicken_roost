@@ -1,0 +1,20 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenCoal"
+      },
+      {
+        "value": "CUSTOM:EChickenMagmacream"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "basaltgoodtag",
+    "namespace": "forge"
+  }
+}

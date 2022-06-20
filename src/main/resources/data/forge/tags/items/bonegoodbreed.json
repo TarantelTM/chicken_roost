@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_oakwood",
+    "chicken_roost:e_chicken_melon",
+    "chicken_roost:e_chicken_sugar",
+    "chicken_roost:e_chicken_dark_oak",
+    "chicken_roost:echickenapple",
+    "chicken_roost:e_chickencarrot",
+    "chicken_roost:e_chickenbeetroot",
+    "chicken_roost:e_chicken_birchwood",
+    "chicken_roost:e_chicken_sprucewood",
+    "chicken_roost:e_chicken_sweetberries",
+    "chicken_roost:e_chickenglowberries",
+    "chicken_roost:e_chicken_acaciawood",
+    "chicken_roost:e_chicken_junglewood"
+  ]
+}

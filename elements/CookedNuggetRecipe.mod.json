@@ -1,0 +1,20 @@
+{
+  "_fv": 30,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 30,
+    "recipeRetstackSize": 1,
+    "group": "roost_cooking",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:ChickenNugget"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:Cookednugget"
+    },
+    "name": "cooked_nugget_recipe",
+    "namespace": "mod"
+  }
+}

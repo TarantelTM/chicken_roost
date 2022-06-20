@@ -1,0 +1,11 @@
+{
+  "_fv": 30,
+  "_type": "tab",
+  "definition": {
+    "name": "Roost Shards",
+    "icon": {
+      "value": "CUSTOM:Netherstarshard"
+    },
+    "showSearch": true
+  }
+}

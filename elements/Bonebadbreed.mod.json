@@ -1,0 +1,20 @@
+{
+  "_fv": 30,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenBoneMeal"
+      },
+      {
+        "value": "CUSTOM:EChickenBone"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "bonebadbreed",
+    "namespace": "forge"
+  }
+}

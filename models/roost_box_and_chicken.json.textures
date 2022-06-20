@@ -1,0 +1,54 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "hay": "hay_floor",
+        "chicken": "uraniumchicken",
+        "hay_side": "hay_side",
+        "wood": "plain_face",
+        "front": "plain_face"
+      },
+      "name": "default"
+    },
+    "chicken_cobble": {
+      "map": {
+        "hay": "hay_floor",
+        "chicken": "blackchicken",
+        "hay_side": "hay_side",
+        "wood": "plain_face",
+        "front": "plain_face"
+      },
+      "name": "chicken_cobble"
+    },
+    "chicken_flint": {
+      "map": {
+        "hay": "hay_floor",
+        "chicken": "flintchicken",
+        "hay_side": "hay_side",
+        "wood": "plain_face",
+        "front": "plain_face"
+      },
+      "name": "chicken_flint"
+    },
+    "chicken_osmium": {
+      "map": {
+        "hay": "hay_floor",
+        "chicken": "osmiumchicken",
+        "hay_side": "hay_side",
+        "wood": "plain_face",
+        "front": "plain_face"
+      },
+      "name": "chicken_osmium"
+    },
+    "chicken_empty": {
+      "map": {
+        "hay": "hay_floor",
+        "chicken": "vanishchicken",
+        "hay_side": "hay_side",
+        "wood": "plain_face",
+        "front": "plain_face"
+      },
+      "name": "chicken_empty"
+    }
+  }
+}

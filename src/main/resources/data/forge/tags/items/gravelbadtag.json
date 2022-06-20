@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "chicken_roost:e_chicken_granit",
+    "chicken_roost:e_chicken_andesite",
+    "chicken_roost:e_chicken_gravel",
+    "chicken_roost:e_chicken_diorite"
+  ]
+}

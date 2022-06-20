@@ -1,0 +1,37 @@
+{
+  "group": "roost",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    },
+    {
+      "item": "chicken_roost:netherstarshard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1
+  }
+}
