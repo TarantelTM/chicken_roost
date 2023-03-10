@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "chicken_roost:e_chicken_glowstone",
-    "chicken_roost:e_chicken_emerald",
-    "chicken_roost:e_chicken_quartz",
-    "chicken_roost:e_chicken_tnt"
-  ]
-}
